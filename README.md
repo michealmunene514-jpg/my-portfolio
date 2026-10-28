@@ -1,1 +1,43 @@
+<html
+<head>
+<title<portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>My Personal Portfolio</h1>
+<p>Welcome to my website</p>
+</header>
+<nav>
+<a href="#home">Home</a>
+<a href="#about">About Me</a>
+<a href="#skills">Skills</a>
+<a href="#contact">Contact</a>
+</nav>
+<section id="home">
+<h2>Home</h2>
+<p>Hello! My name is Michael Munene.</p>
+<p>Student at the East Africa University.</p>
+</section>
+<section id="about">
+<h2>About Me</h2>
+<p>I am interested in computers programming and software development.</p>
+<p>My goal is to become a professional web designer.</p>
+<p>Dream of creating my own computer empire.</p>
+</section>
+<section id="skills">
+<h2>My Skills</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Computer Programming</li>
+</ul>
+</section>
+<section id="contact">
+<h3>Contact Me</h2>
+<p>Email: michealmunene514@gmail.com</p>
+<p>Phone: 0142184969</p>
+</section>
+</body>
+</html
 # my-portfolio
