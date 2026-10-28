@@ -1,6 +1,4 @@
-<html
 <head>
-<title<portfolio</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
